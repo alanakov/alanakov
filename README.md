@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5656&repeat=false&width=435&lines=Ol%C3%A1%2C+mundo!+Me+chamo+Alana!+%E2%8B%86%E2%AD%92%CB%9A.%E2%8B%86" alt="Typing SVG" /></a>
-<img align="right" width="224" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" >
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" >
 
 <p> 
   Estudante do 3º período de Tecnologia em Análise e Desenvolvimento de Sistemas e quero me tornar dev front-end. 
